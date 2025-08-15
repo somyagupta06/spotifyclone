@@ -250,7 +250,7 @@ main .left {
   .play {
     transition: all 0.2s ease-out;
     opacity: 1;
-    bottom: 25vw;
+    bottom: 80px;
   }
 }
 

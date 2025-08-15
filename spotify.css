@@ -412,13 +412,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 95vw;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 73px);
 
   }
 
   main .right {
     width: 50%;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 73px);
   }
   .spotifyPlaylist .card{
     width: 43vw;
@@ -475,13 +475,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 95vw;
-    height: calc(100vh - 70px);
+    height: calc(100vh - 85px);
 
   }
 
   main .right {
     width: 65%;
-    height: calc(100vh - 70px);
+    height: calc(100vh - 85px);
   }
 
   .colour2 input {

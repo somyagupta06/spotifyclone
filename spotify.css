@@ -517,13 +517,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 100vw;
-    height: calc(100vh - 73px);
+    height: calc(100vh - 83px);
 
   }
 
   main .right {
     width: 65%;
-    height: calc(100vh - 73px);
+    height: calc(100vh - 93px);
   }
 }
 @media (max-width: 362px){

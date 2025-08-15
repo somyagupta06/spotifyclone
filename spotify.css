@@ -420,6 +420,9 @@ nav .right .logo2 {
     width: 50%;
     height: calc(100vh - 60px);
   }
+  .spotifyPlaylist .card{
+    width: 43vw;
+  }
 
   .hamburger {
     display: block;
@@ -486,6 +489,11 @@ nav .right .logo2 {
   }
 
 }
+@media (max-width: 649px){
+  .spotifyPlaylist .card{
+    width: 40vw;
+  }
+}
 
 @media (max-width: 500px) {
   html{
@@ -514,8 +522,16 @@ nav .right .logo2 {
     height: calc(100vh - 63px);
   }
 }
+@media (max-width: 362px){
+  .spotifyPlaylist .card{
+    width: 70vw;
+  }
+}
 
 @media (max-width: 350px) {
+  .spotifyPlaylist .card{
+    width: 70vw ;
+  }
   main .right {
     width: 65%;
   }

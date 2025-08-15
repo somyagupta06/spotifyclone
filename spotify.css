@@ -475,13 +475,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 95vw;
-    height: calc(100vh - 44px);
+    height: calc(100vh - 70px);
 
   }
 
   main .right {
     width: 65%;
-    height: calc(100vh - 45px);
+    height: calc(100vh - 70px);
   }
 
   .colour2 input {

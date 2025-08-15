@@ -468,8 +468,8 @@ nav .right .logo2 {
     padding: 10px;
   }
 
-  .playbtn .songs * {
-    width: auto;
+  .playbtn .songinfo{
+    width: 80vw;
   }
 
   main .left {
@@ -496,6 +496,10 @@ nav .right .logo2 {
 }
 
 @media (max-width: 500px) {
+  .songInfo{
+    width: 50vw;
+    
+  }
   html{
     overflow: hidden;
   }

@@ -100,7 +100,7 @@ main .right .head {
 
 main .right {
  width: 25%;
-  height: calc(100vh - 63px);
+  height: calc(100vh - 83px);
   background-color: #121212;
   display: flex;
   flex-direction: column;
@@ -149,7 +149,7 @@ main .right {
 main .left {
   width: 75%;
   margin: 5px;
-  height: calc(100vh - 63px);
+  height: calc(100vh - 103px);
   background-color: #121212;
   padding-top: 2vw;
 
@@ -412,13 +412,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 95vw;
-    height: calc(100vh - 73px);
+    height: calc(100vh - 103px);
 
   }
 
   main .right {
     width: 50%;
-    height: calc(100vh - 73px);
+    height: calc(100vh - 83px);
   }
   .spotifyPlaylist .card{
     width: 43vw;
@@ -475,13 +475,13 @@ nav .right .logo2 {
   main .left {
     margin-right: 4px;
     width: 95vw;
-    height: calc(100vh - 85px);
+    height: calc(100vh - 105px);
 
   }
 
   main .right {
     width: 65%;
-    height: calc(100vh - 85px);
+    height: calc(100vh - 95px);
   }
 
   .colour2 input {
